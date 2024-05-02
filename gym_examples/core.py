@@ -4,7 +4,7 @@ import xml.etree.ElementTree as Et
 
 import gym
 
-from .registration import env_xml_dict
+from .register import env_xml_dict
 
 _image_dir_abs_path = ""
 

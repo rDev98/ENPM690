@@ -1,4 +1,4 @@
-from register import register
+from ..register import register
 
 
 register(
